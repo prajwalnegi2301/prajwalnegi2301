@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prajwalnegi2301
 - 👀 I’m interested in Full-Stack WebDevelopment, BlockChain and Machine-Learning
 - 🌱 I’m currently learning Machine-Learning
-- 💞️ I’m looking to collaborate on ...Full Stack PRojects
+- 💞️ I’m looking to collaborate on ...Full Stack Projects
 - 📫 How to reach me ...prajwalneginsut26@gmail.com
 - 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ...
