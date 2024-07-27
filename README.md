@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prajwalnegi2301
+- 👋 Hi, I’m Prajwal Negi
 - 👀 I’m interested in Full-Stack WebDevelopment, BlockChain and Machine-Learning
 - 🌱 I’m currently learning Machine-Learning
 - 💞️ I’m looking to collaborate on ...Full Stack Projects
